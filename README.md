@@ -13,7 +13,7 @@ You're going to be adding 2 instance methods to a `Dog` and `Person` class.
 
 Open this lab with `learn open` and run your tests with `learn`.
 
-#### 1. Define `Dog` in `lib/dog.rb`
+#### 1. Deffine `Dog` in `lib/dog.rb`
 
 Open `lib/dog.rb` and add a class definition for a `Dog` class.
 

@@ -4,7 +4,6 @@
 
 1. Define a class.
 2. Build instance methods for the class.
-
 ## Overview
 
 You're going to be adding 2 instance methods to a `Dog` and `Person` class.
